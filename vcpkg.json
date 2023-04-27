@@ -1,0 +1,6 @@
+{
+    "name":"wxtest",
+    "version":"1.0",
+    "dependencies":["wxwidgets"]
+
+}

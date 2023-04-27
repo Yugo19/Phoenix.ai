@@ -1,0 +1,73 @@
+# Object files
+*.o
+*.o.*
+*.obj
+*.obj.*
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic Libraries
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Compiled Static Libraries
+*.a
+*.lib
+
+# Qt Meta-Object Compiler output
+moc_*.cpp
+moc_*.h
+
+# Generated Makefiles
+Makefile
+Makefile.*
+
+# Generated project files
+*.pro.user
+*.qbs.user
+*.qmake.cache
+*.qmake.stash
+
+# IDE-specific files
+*.autosave
+*.backup
+*.bak
+*.swp
+*.swo
+*.kdev4
+
+# Compiled translations
+*.qm
+
+# Generated files
+*.cxx
+*.cxx.*
+*.moc
+*.moc.*
+*.ui
+*.ui.*
+*.qrc
+*.qrc.*
+
+# Generated documentation
+html
+latex
+man
+
+# Qt Creator Project files
+*.creator.user
+*.creator.user.*
+
+# Other
+*.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.vs
+.ipch
+.db
+.VC.db
