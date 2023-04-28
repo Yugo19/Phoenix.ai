@@ -1,5 +1,5 @@
 # Phoenix.ai
-AI solution for healthcare
+AI solution for healthcare(Wxwidgets OpenCV tensorflow keras)
 ![Screenshot 2023-04-27 153320](https://user-images.githubusercontent.com/64170643/234912890-85fc0dd0-a2e0-42c9-8797-19afc521a46a.png)
 ![Screenshot 2023-04-27 153333](https://user-images.githubusercontent.com/64170643/234912903-1687456a-4a3b-425c-89ea-428a02c69bc4.png)
 ![Screenshot 2023-04-27 153345](https://user-images.githubusercontent.com/64170643/234912922-9b5908d4-f16e-4d40-9235-87c8e19bf083.png)
